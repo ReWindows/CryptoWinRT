@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "CryptoWinRT.dll",
+  "latest": "2213376112-CD1CF87037A31E2FC8A853012B8D2018-1",
+  "builds": [
+    {
+      "key": "2213376112-CD1CF87037A31E2FC8A853012B8D2018-1",
+      "timestamp": "2213376112",
+      "pdb_guid": "CD1CF87037A31E2FC8A853012B8D2018",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2213376112-CD1CF87037A31E2FC8A853012B8D2018-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
